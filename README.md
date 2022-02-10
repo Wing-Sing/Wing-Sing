@@ -4,6 +4,7 @@
 
 - 😆[blog](https://chenwingsing.github.io/)
 - 😃[知乎](https://www.zhihu.com/people/chen-yong-cheng-46)
+- 😜[E-mail](chen_yongcheng@outlook.com)
 
 ### 博客近期更新
 <!-- START_SECTION:blog -->
