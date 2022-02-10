@@ -3,6 +3,8 @@
 ### 雷好呀 👋
 
 - 😆[blog](https://chenwingsing.github.io/)
+<!-- START_SECTION:blog -->
+<!-- END_SECTION:blog -->
 <!--
 **chenwingsing/chenwingsing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
