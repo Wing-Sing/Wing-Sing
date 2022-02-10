@@ -3,6 +3,7 @@
 ### 雷好呀 👋
 
 - 😆[blog](https://chenwingsing.github.io/)
+- 😃[知乎](https://www.zhihu.com/people/chen-yong-cheng-46)
 
 ### 博客近期更新
 <!-- START_SECTION:blog -->
