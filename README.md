@@ -14,7 +14,7 @@
 * <a href='https://chenwingsing.github.io/2021/12/08/%E6%96%AD%E5%A2%A8%E5%AF%BB%E5%BE%84/' target='_blank'>断墨寻径</a> - 2021-12-08
 <!-- END_SECTION:blog -->
 
-### 最近读的书
+### 豆瓣近期更新
 <!-- START_SECTION:douban -->
 * <a href='http://movie.douban.com/subject/24733428/' target='_blank'>看过心灵奇旅</a> - 2022-02-10
 * <a href='https://book.douban.com/subject/35143790/' target='_blank'>读过蛤蟆先生去看心理医生</a> - 2022-01-10
