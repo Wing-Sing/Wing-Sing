@@ -16,11 +16,11 @@
 
 ### 最近读的书
 <!-- START_SECTION:douban -->
+* <a href='http://movie.douban.com/subject/24733428/' target='_blank'>看过心灵奇旅</a> - 2022-02-10
 * <a href='https://book.douban.com/subject/35143790/' target='_blank'>读过蛤蟆先生去看心理医生</a> - 2022-01-10
 * <a href='https://book.douban.com/subject/4913064/' target='_blank'>读过活着</a> - 2021-12-22
 * <a href='https://book.douban.com/subject/1770782/' target='_blank'>读过追风筝的人</a> - 2021-12-22
 * <a href='https://book.douban.com/subject/11601993/' target='_blank'>读过安静</a> - 2021-12-22
-* <a href='https://book.douban.com/subject/27153484/' target='_blank'>读过富爸爸穷爸爸</a> - 2021-12-22
 <!-- END_SECTION:douban -->
 
 <!--
