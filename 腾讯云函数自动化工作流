@@ -1,0 +1,24 @@
+#发现github上的自动化其实是有延迟的，本文记录用腾讯云函数来完成定时任务
+
+1.[腾讯云函数](https://console.cloud.tencent.com/scf/list)
+2.新建空白函数模板，在线编辑即可，务必选择运行环境为python3.6，因为3.7的版本腾讯没有内置依赖，需要自行安装。
+3.设置代码如下
+
+```
+# -*- coding: utf8 -*-
+import requests
+import json
+
+def run():
+        payload = json.dumps({"ref": "main"})
+        header = {'Authorization': 'token 这里写我的githubtoken',
+                  "Accept": "application/vnd.github.v3+json"}
+        response_decoded_json = requests.post(
+            f'https://api.github.com/repos/chenwingsing/chenwingsing/actions/workflows/social-readme.yml/dispatches',
+            data=payload, headers=header)
+
+# 云函数入口
+def main_handler(event, context):
+    return run()
+```
+需要注意 **token 这里写我的githubtoken**，前面是有token的，这是前置必须，比如我的token是5201314，就需要写成 'token 5201314'
