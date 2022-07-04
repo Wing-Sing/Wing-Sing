@@ -16,11 +16,11 @@
 
 ### 豆瓣近期更新
 <!-- START_SECTION:douban -->
+* <a href='https://book.douban.com/subject/27016301/' target='_blank'>读过回头客战略</a> - 2022-07-03
 * <a href='https://book.douban.com/subject/35254632/' target='_blank'>读过详谈：左晖</a> - 2022-06-04
 * <a href='https://book.douban.com/subject/5325618/' target='_blank'>读过高效能人士的七个习惯</a> - 2022-05-21
 * <a href='https://book.douban.com/subject/33385217/' target='_blank'>读过全球科技通史</a> - 2022-04-10
 * <a href='https://book.douban.com/subject/33438841/' target='_blank'>读过有限与无限的游戏</a> - 2022-04-01
-* <a href='https://book.douban.com/subject/35143790/' target='_blank'>读过蛤蟆先生去看心理医生</a> - 2022-01-10
 <!-- END_SECTION:douban -->
 
 <!--
