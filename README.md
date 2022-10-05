@@ -16,11 +16,11 @@
 
 ### 豆瓣近期更新
 <!-- START_SECTION:douban -->
+* <a href='https://book.douban.com/subject/26915104/' target='_blank'>读过你凭什么做好互联网</a> - 2022-10-04
 * <a href='https://book.douban.com/subject/36057097/' target='_blank'>读过小米创业思考</a> - 2022-09-11
 * <a href='https://book.douban.com/subject/35876121/' target='_blank'>读过纳瓦尔宝典</a> - 2022-07-18
 * <a href='https://book.douban.com/subject/27016301/' target='_blank'>读过回头客战略</a> - 2022-07-03
 * <a href='https://book.douban.com/subject/35254632/' target='_blank'>读过详谈：左晖</a> - 2022-06-04
-* <a href='https://book.douban.com/subject/5325618/' target='_blank'>读过高效能人士的七个习惯</a> - 2022-05-21
 <!-- END_SECTION:douban -->
 
 <!--
