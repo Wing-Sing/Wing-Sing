@@ -16,11 +16,11 @@
 
 ### 豆瓣近期更新
 <!-- START_SECTION:douban -->
+* <a href='https://book.douban.com/subject/36547803/' target='_blank'>读过胜者心法</a> 🌟🌟🌟🌟☆ 推荐- 2024-03-14
 * <a href='https://book.douban.com/subject/36530548/' target='_blank'>读过宝贵的人生建议</a> 🌟🌟🌟🌟☆ 推荐- 2024-03-03
 * <a href='https://book.douban.com/subject/36018994/' target='_blank'>读过聪明人的个人成长</a> 🌟🌟🌟🌟☆ 推荐- 2024-02-22
 * <a href='https://book.douban.com/subject/35582233/' target='_blank'>读过王剑讲银行业:基本逻辑与分析方法</a> 🌟🌟🌟☆☆ 还行- 2024-02-15
 * <a href='https://book.douban.com/subject/36591951/' target='_blank'>读过疯狂的尿酸</a> 🌟🌟🌟🌟☆ 推荐- 2024-01-20
-* <a href='https://book.douban.com/subject/26377453/' target='_blank'>读过谷物大脑</a> 🌟🌟🌟🌟☆ 推荐- 2024-01-12
 <!-- END_SECTION:douban -->
 
 <!--
