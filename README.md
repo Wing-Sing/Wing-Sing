@@ -16,11 +16,11 @@
 
 ### 豆瓣近期更新
 <!-- START_SECTION:douban -->
+* <a href='https://book.douban.com/subject/36438791/' target='_blank'>读过芒格之道</a> 🌟🌟🌟🌟🌟 力荐- 2024-05-06
 * <a href='https://book.douban.com/subject/35167240/' target='_blank'>读过SQL必知必会（第5版）</a> 🌟🌟🌟🌟🌟 力荐- 2024-05-04
 * <a href='https://book.douban.com/subject/36336313/' target='_blank'>读过深度关系</a> 🌟🌟🌟🌟🌟 力荐- 2024-04-19
 * <a href='https://book.douban.com/subject/35659418/' target='_blank'>读过芯片战争</a> 🌟🌟🌟🌟☆ 推荐- 2024-04-03
 * <a href='https://book.douban.com/subject/36673627/' target='_blank'>读过时势</a> 🌟🌟🌟🌟☆ 推荐- 2024-03-17
-* <a href='https://book.douban.com/subject/36547803/' target='_blank'>读过胜者心法</a> 🌟🌟🌟🌟☆ 推荐- 2024-03-14
 <!-- END_SECTION:douban -->
 
 <!--
