@@ -7,7 +7,11 @@
 
 ### 博客近期更新
 <!-- START_SECTION:blog -->
-
+* <a href='https://chenwingsing.github.io/2024/10/05/%E4%BA%A4%E6%98%93%E7%9A%84%E8%89%BA%E6%9C%AF/' target='_blank'>交易的艺术</a> - 2024-10-05
+* <a href='https://chenwingsing.github.io/2024/01/21/%E5%86%99%E5%9C%A82024/' target='_blank'>写在2024</a> - 2024-01-21
+* <a href='https://chenwingsing.github.io/2023/08/06/Linux%E8%AE%B0%E5%BD%95/' target='_blank'>Linux记录</a> - 2023-08-06
+* <a href='https://chenwingsing.github.io/2022/06/07/%E4%BB%BF%E7%89%9B%E5%AE%A2%E7%BD%91%E9%A1%B9%E7%9B%AE%E8%AE%B0%E5%BD%95/' target='_blank'>仿牛客网项目记录</a> - 2022-06-07
+* <a href='https://chenwingsing.github.io/2022/04/14/MySql%E7%AC%94%E8%AE%B0/' target='_blank'>MySql笔记</a> - 2022-04-14
 <!-- END_SECTION:blog -->
 
 ### 豆瓣近期更新
