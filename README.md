@@ -16,7 +16,11 @@
 
 ### 豆瓣近期更新
 <!-- START_SECTION:douban -->
-
+* <a href='https://book.douban.com/subject/26413154/' target='_blank'>读过李光耀观天下</a> 🌟🌟🌟🌟🌟 力荐- 2025-01-20
+* <a href='https://book.douban.com/subject/34906310/' target='_blank'>读过李嘉诚传</a> 🌟🌟🌟🌟☆ 推荐- 2025-01-18
+* <a href='https://book.douban.com/subject/27154533/' target='_blank'>读过终身成长</a> 🌟🌟🌟🌟☆ 推荐- 2024-10-05
+* <a href='https://book.douban.com/subject/36429009/' target='_blank'>读过冲向火星</a> 🌟🌟🌟🌟☆ 推荐- 2024-08-16
+* <a href='https://book.douban.com/subject/34434342/' target='_blank'>读过人类群星闪耀时</a> 🌟🌟🌟🌟☆ 推荐- 2024-08-11
 <!-- END_SECTION:douban -->
 
 <!--
