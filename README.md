@@ -16,11 +16,11 @@
 
 ### 豆瓣近期更新
 <!-- START_SECTION:douban -->
+* <a href='https://book.douban.com/subject/35485315/' target='_blank'>读过中国社会各阶层分析</a> 🌟🌟🌟☆☆ 还行- 2025-02-11
 * <a href='https://book.douban.com/subject/35350092/' target='_blank'>读过征服市场的人</a> 🌟🌟🌟🌟☆ 推荐- 2025-02-08
 * <a href='https://book.douban.com/subject/26413154/' target='_blank'>读过李光耀观天下</a> 🌟🌟🌟🌟🌟 力荐- 2025-01-20
 * <a href='https://book.douban.com/subject/34906310/' target='_blank'>读过李嘉诚传</a> 🌟🌟🌟🌟☆ 推荐- 2025-01-18
 * <a href='https://book.douban.com/subject/27154533/' target='_blank'>读过终身成长</a> 🌟🌟🌟🌟☆ 推荐- 2024-10-05
-* <a href='https://book.douban.com/subject/36429009/' target='_blank'>读过冲向火星</a> 🌟🌟🌟🌟☆ 推荐- 2024-08-16
 <!-- END_SECTION:douban -->
 
 <!--
