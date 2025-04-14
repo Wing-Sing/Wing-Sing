@@ -16,7 +16,11 @@
 
 ### 豆瓣近期更新
 <!-- START_SECTION:douban -->
-
+* <a href='https://book.douban.com/subject/36295222/' target='_blank'>读过投资第1课</a> 🌟🌟🌟🌟🌟 力荐- 2025-04-12
+* <a href='https://book.douban.com/subject/37142217/' target='_blank'>读过黄仁勋：英伟达之芯</a> 🌟🌟🌟🌟🌟 力荐- 2025-03-30
+* <a href='https://book.douban.com/subject/30443502/' target='_blank'>读过周期</a> 🌟🌟🌟🌟☆ 推荐- 2025-03-24
+* <a href='https://book.douban.com/subject/36672955/' target='_blank'>读过我看见的世界</a> 🌟🌟🌟🌟🌟 力荐- 2025-03-15
+* <a href='https://book.douban.com/subject/35485315/' target='_blank'>读过中国社会各阶层分析</a> 🌟🌟🌟☆☆ 还行- 2025-02-11
 <!-- END_SECTION:douban -->
 
 <!--
