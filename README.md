@@ -16,7 +16,11 @@
 
 ### 豆瓣近期更新
 <!-- START_SECTION:douban -->
-
+* <a href='https://book.douban.com/subject/35254511/' target='_blank'>读过段永平投资问答录（商业逻辑篇）</a> 🌟🌟🌟🌟🌟 力荐- 2025-04-19
+* <a href='https://book.douban.com/subject/35279134/' target='_blank'>读过段永平投资问答录（投资逻辑篇）</a> 🌟🌟🌟🌟🌟 力荐- 2025-04-19
+* <a href='https://book.douban.com/subject/36295222/' target='_blank'>读过投资第1课</a> 🌟🌟🌟🌟🌟 力荐- 2025-04-12
+* <a href='https://book.douban.com/subject/37142217/' target='_blank'>读过黄仁勋：英伟达之芯</a> 🌟🌟🌟🌟🌟 力荐- 2025-03-30
+* <a href='https://book.douban.com/subject/30443502/' target='_blank'>读过周期</a> 🌟🌟🌟🌟☆ 推荐- 2025-03-24
 <!-- END_SECTION:douban -->
 
 <!--
