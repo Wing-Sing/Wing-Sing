@@ -7,11 +7,7 @@
 
 ### 博客近期更新
 <!-- START_SECTION:blog -->
-* <a href='https://chenwingsing.github.io/2025/01/28/ETF%E7%9B%91%E6%8E%A7%E7%AD%96%E7%95%A5%EF%BC%88%E5%86%99%E5%9C%A82025%E9%99%A4%E5%A4%95%E5%A4%9C%EF%BC%89/' target='_blank'>ETF监控策略（写在2025除夕夜）</a> - 2025-01-28
-* <a href='https://chenwingsing.github.io/2024/12/29/%E5%86%99%E5%9C%A82025%E5%89%8D%E5%A4%95/' target='_blank'>写在2025前夕</a> - 2024-12-29
-* <a href='https://chenwingsing.github.io/2024/10/05/%E4%BA%A4%E6%98%93%E7%9A%84%E8%89%BA%E6%9C%AF/' target='_blank'>交易的艺术（期权）</a> - 2024-10-05
-* <a href='https://chenwingsing.github.io/2024/01/21/%E5%86%99%E5%9C%A82024/' target='_blank'>写在2024</a> - 2024-01-21
-* <a href='https://chenwingsing.github.io/2023/08/06/Linux%E8%AE%B0%E5%BD%95/' target='_blank'>Linux记录</a> - 2023-08-06
+
 <!-- END_SECTION:blog -->
 
 ### 豆瓣近期更新
