@@ -12,11 +12,7 @@
 
 ### 豆瓣近期更新
 <!-- START_SECTION:douban -->
-* <a href='https://book.douban.com/subject/26984629/' target='_blank'>读过这世界既残酷也温柔</a> 🌟🌟🌟☆☆ 还行- 2025-08-23
-* <a href='https://book.douban.com/subject/3110321/' target='_blank'>读过更富有、更睿智、更快乐</a> 🌟🌟🌟🌟☆ 推荐- 2025-08-17
-* <a href='https://book.douban.com/subject/36482108/' target='_blank'>读过财富自由之路 (修订版)</a> 🌟🌟🌟☆☆ 还行- 2025-07-20
-* <a href='https://book.douban.com/subject/27187084/' target='_blank'>读过跳着踢踏舞去上班</a> 🌟🌟🌟🌟☆ 推荐- 2025-07-13
-* <a href='https://book.douban.com/subject/24834614/' target='_blank'>读过滚雪球（下）（纪念版）</a> 🌟🌟🌟🌟🌟 力荐- 2025-06-02
+
 <!-- END_SECTION:douban -->
 
 <!--
