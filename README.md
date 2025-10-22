@@ -12,7 +12,11 @@
 
 ### 豆瓣近期更新
 <!-- START_SECTION:douban -->
-
+* <a href='https://book.douban.com/subject/37370552/' target='_blank'>读过国家为什么会破产</a> 🌟🌟🌟🌟☆ 推荐- 2025-10-08
+* <a href='https://book.douban.com/subject/36415996/' target='_blank'>读过金钱心理学</a> 🌟🌟🌟🌟☆ 推荐- 2025-10-06
+* <a href='https://book.douban.com/subject/36576111/' target='_blank'>读过周期、估值与人性</a> 🌟🌟🌟🌟🌟 力荐- 2025-10-05
+* <a href='https://book.douban.com/subject/25786645/' target='_blank'>读过乔纳森传</a> 🌟🌟🌟🌟☆ 推荐- 2025-10-01
+* <a href='https://book.douban.com/subject/34429983/' target='_blank'>读过蒂姆·库克传</a> 🌟🌟🌟🌟☆ 推荐- 2025-09-23
 <!-- END_SECTION:douban -->
 
 <!--
