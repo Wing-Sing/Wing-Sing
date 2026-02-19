@@ -12,11 +12,7 @@
 
 ### 豆瓣近期更新
 <!-- START_SECTION:douban -->
-* <a href='https://book.douban.com/subject/37492819/' target='_blank'>读过全球视野下的投资机会</a> 🌟🌟🌟🌟🌟 力荐- 2026-02-17
-* <a href='https://book.douban.com/subject/35339729/' target='_blank'>读过微信背后的产品观</a> 🌟🌟🌟🌟☆ 推荐- 2026-01-18
-* <a href='https://book.douban.com/subject/37496051/' target='_blank'>读过如何快速了解一个行业</a> 🌟🌟🌟🌟🌟 力荐- 2026-01-04
-* <a href='https://book.douban.com/subject/37322503/' target='_blank'>读过大道</a> 🌟🌟🌟🌟🌟 力荐- 2025-12-25
-* <a href='https://book.douban.com/subject/36119063/' target='_blank'>读过21世纪货币政策</a> 🌟🌟🌟🌟☆ 推荐- 2025-12-14
+
 <!-- END_SECTION:douban -->
 
 <!--
