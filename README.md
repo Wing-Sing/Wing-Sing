@@ -12,7 +12,11 @@
 
 ### 豆瓣近期更新
 <!-- START_SECTION:douban -->
-
+* <a href='https://book.douban.com/subject/38414641/' target='_blank'>读过幣安人生</a> 🌟🌟🌟🌟🌟 力荐- 2026-04-12
+* <a href='https://book.douban.com/subject/26362997/' target='_blank'>读过商业冒险</a> 🌟🌟🌟☆☆ 还行- 2026-03-01
+* <a href='https://book.douban.com/subject/37270431/' target='_blank'>读过显化</a> 🌟🌟🌟🌟☆ 推荐- 2026-02-23
+* <a href='https://book.douban.com/subject/37492819/' target='_blank'>读过全球视野下的投资机会</a> 🌟🌟🌟🌟🌟 力荐- 2026-02-17
+* <a href='https://book.douban.com/subject/35339729/' target='_blank'>读过微信背后的产品观</a> 🌟🌟🌟🌟☆ 推荐- 2026-01-18
 <!-- END_SECTION:douban -->
 
 <!--
