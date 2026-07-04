@@ -12,11 +12,11 @@
 
 ### 豆瓣近期更新
 <!-- START_SECTION:douban -->
+* <a href='https://book.douban.com/subject/1012611/' target='_blank'>读过乌合之众</a> 🌟🌟🌟☆☆ 还行- 2026-07-04
 * <a href='https://book.douban.com/subject/34912485/' target='_blank'>读过投资至简</a> 🌟🌟🌟🌟🌟 力荐- 2026-05-31
 * <a href='https://book.douban.com/subject/33401129/' target='_blank'>读过投资最重要的事</a> 🌟🌟🌟🌟🌟 力荐- 2026-05-20
 * <a href='https://book.douban.com/subject/36701704/' target='_blank'>读过超越巴菲特的伯克希尔</a> 🌟🌟🌟🌟🌟 力荐- 2026-05-11
 * <a href='https://book.douban.com/subject/37105779/' target='_blank'>读过因为独特</a> 🌟🌟🌟🌟☆ 推荐- 2026-04-26
-* <a href='https://book.douban.com/subject/26752026/' target='_blank'>读过聪明的投资者（第4版注疏点评版）</a> 🌟🌟🌟🌟🌟 力荐- 2026-04-19
 <!-- END_SECTION:douban -->
 
 <!--
