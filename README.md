@@ -7,7 +7,11 @@
 
 ### 博客近期更新
 <!-- START_SECTION:blog -->
-
+* <a href='https://wing-sing.github.io/2026/08/09/%E5%BE%AE%E4%BF%A1%E9%98%85%E8%AF%BB%E7%AA%81%E7%A0%B4600%E5%B0%8F%E6%97%B6/' target='_blank'>微信阅读突破600小时</a> - 2026-08-09
+* <a href='https://wing-sing.github.io/2026/06/27/%E6%8A%95%E8%B5%84%E5%8F%8D%E6%80%9D/' target='_blank'>投资反思</a> - 2026-06-27
+* <a href='https://wing-sing.github.io/2026/06/22/%E4%B8%89%E5%B9%B4%E5%90%8E%E5%86%8D%E5%9B%9E%E5%A4%A9%E6%B4%A5/' target='_blank'>三年后再回天津</a> - 2026-06-22
+* <a href='https://wing-sing.github.io/2025/12/28/2026%E8%A6%81%E6%9D%A5%E4%BA%86/' target='_blank'>2026要来了</a> - 2025-12-27
+* <a href='https://wing-sing.github.io/2025/10/05/%E5%BE%AE%E4%BF%A1%E9%98%85%E8%AF%BB%E7%AA%81%E7%A0%B4500%E5%B0%8F%E6%97%B6/' target='_blank'>微信阅读突破500小时</a> - 2025-10-05
 <!-- END_SECTION:blog -->
 
 ### 豆瓣近期更新
