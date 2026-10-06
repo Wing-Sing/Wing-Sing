@@ -16,11 +16,11 @@
 
 ### 豆瓣近期更新
 <!-- START_SECTION:douban -->
+* <a href='https://book.douban.com/subject/25908390/' target='_blank'>读过大败局2</a> 🌟🌟🌟🌟☆ 推荐- 2026-10-06
 * <a href='https://book.douban.com/subject/25908391/' target='_blank'>读过大败局1</a> 🌟🌟🌟🌟☆ 推荐- 2026-10-03
 * <a href='https://book.douban.com/subject/37356655/' target='_blank'>读过天空不设限</a> 🌟🌟🌟☆☆ 还行- 2026-08-23
 * <a href='https://book.douban.com/subject/30229576/' target='_blank'>读过时间的玫瑰</a> 🌟🌟🌟☆☆ 还行- 2026-08-09
 * <a href='https://book.douban.com/subject/35902211/' target='_blank'>读过金钱博弈</a> 🌟🌟🌟🌟☆ 推荐- 2026-07-29
-* <a href='https://book.douban.com/subject/24385064/' target='_blank'>读过一个农民的亿万传奇</a> 🌟🌟🌟🌟☆ 推荐- 2026-07-12
 <!-- END_SECTION:douban -->
 
 <!--
