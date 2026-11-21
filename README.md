@@ -16,11 +16,11 @@
 
 ### 豆瓣近期更新
 <!-- START_SECTION:douban -->
+* <a href='https://movie.douban.com/subject/37116446/' target='_blank'>看过给阿嬷的情书</a> 🌟🌟🌟🌟🌟 力荐- 2026-11-21
 * <a href='https://book.douban.com/subject/37233082/' target='_blank'>读过李大霄投资战略（第三版）</a> 🌟🌟🌟☆☆ 还行- 2026-11-15
 * <a href='https://book.douban.com/subject/35443303/' target='_blank'>读过量化交易</a> 🌟🌟🌟☆☆ 还行- 2026-11-13
 * <a href='https://book.douban.com/subject/38395958/' target='_blank'>读过金钱博弈</a> 🌟🌟🌟🌟☆ 推荐- 2026-11-08
 * <a href='https://book.douban.com/subject/25908390/' target='_blank'>读过大败局2</a> 🌟🌟🌟🌟☆ 推荐- 2026-10-06
-* <a href='https://book.douban.com/subject/25908391/' target='_blank'>读过大败局1</a> 🌟🌟🌟🌟☆ 推荐- 2026-10-03
 <!-- END_SECTION:douban -->
 
 <!--
